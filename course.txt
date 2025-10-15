@@ -1,0 +1,91 @@
+10 Days JavaScript Learning Plan (Bengali Explanation সহ)
+🧩 Day 1: JavaScript Basics
+শিখবে:
+JS কী, কিভাবে কাজ করে (Browser + Node)
+Variables (var, let, const)
+Data Types (String, Number, Boolean, Null, Undefined)
+Operators (+, -, *, /, %, ==, ===, &&, ||, !)
+Practice Project:
+👉 Simple Calculator (Prompt দিয়ে ইউজারের থেকে ২টা নাম্বার নিয়ে যোগফল দেখাও)
+
+🧩 Day 2: Conditional & Loops
+শিখবে:
+if, else if, else
+switch statement
+for, while, do...while loop
+Practice Project:
+👉 Guess Number Game (একটা র‍্যান্ডম নাম্বার ইউজার guess করবে)
+
+🧩 Day 3: Functions
+শিখবে:
+Function declaration & calling
+Parameters & return value
+Function Expression
+Arrow Function
+Practice Project:
+👉 BMI Calculator (Function দিয়ে Body Mass Index বের করো)
+
+🧩 Day 4: Arrays
+শিখবে:
+Array কী
+push(), pop(), shift(), unshift()
+map(), filter(), find(), forEach()
+Practice Project:
+👉 Shopping Cart (array দিয়ে product যোগ/মুছে দেখাও)
+
+🧩 Day 5: Objects
+শিখবে:
+Object তৈরি করা
+Object-এর key-value access
+Nested Object
+Object.keys() / Object.values()
+Practice Project:
+👉 Student Management System (object দিয়ে student info সংরক্ষণ)
+
+🧩 Day 6: DOM Manipulation
+শিখবে:
+document.getElementById(), querySelector()
+innerText, innerHTML, value
+Event Handling (onclick, addEventListener)
+Practice Project:
+👉 To-Do App (Add & Delete task dynamically)
+
+🧩 Day 7: ES6+ Features
+শিখবে:
+let, const, Template Literals
+Destructuring
+Spread & Rest Operators
+Default Parameters
+Classes
+Practice Project:
+👉 Employee Class (class দিয়ে employee object তৈরি করো)
+
+🧩 Day 8: Advanced Functions
+শিখবে:
+Scope (Global vs Local)
+Closure
+Recursion
+Hoisting
+Practice Project:
+👉 Countdown Timer (Recursion ব্যবহার করে)
+
+🧩 Day 9: Asynchronous JavaScript
+শিখবে:
+setTimeout(), setInterval()
+Callback
+Promise
+async / await
+Practice Project:
+👉 Fake API Call (Promise/async-await দিয়ে data fetch simulate করো)
+
+🧩 Day 10: Mini Project Day
+শিখবে ও করবে:
+👉 3টি ছোট প্রজেক্ট একসাথে:
+Light On/Off
+Calculator
+Weather API App (real API দিয়ে)
+✅ Bonus Tips:
+প্রতিদিন ১ ঘণ্টা থিওরি + ১ ঘণ্টা প্র্যাকটিস করো।
+সব কোড VS Code এ লিখে প্র্যাকটিস করো।
+CodePen বা JSFiddle-এ রান করে আউটপুট দেখো।
+ 
