@@ -45,7 +45,7 @@ switch(true){
 console.log(12>8)
 
 
-loop 
+loop without useing analoug system
  console.log(1)
  console.log(2)
  console.log(3)
